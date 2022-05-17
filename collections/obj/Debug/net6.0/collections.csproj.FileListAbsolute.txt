@@ -1,0 +1,15 @@
+C:\workspace\collections-csharp\collections\bin\Debug\net6.0\collections.exe
+C:\workspace\collections-csharp\collections\bin\Debug\net6.0\collections.deps.json
+C:\workspace\collections-csharp\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\workspace\collections-csharp\collections\bin\Debug\net6.0\collections.dll
+C:\workspace\collections-csharp\collections\bin\Debug\net6.0\collections.pdb
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.dll
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\refint\collections.dll
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.pdb
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\workspace\collections-csharp\collections\obj\Debug\net6.0\ref\collections.dll
