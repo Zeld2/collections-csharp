@@ -46,7 +46,7 @@ namespace collections
 
         }
 
-        static void Main()
+        static void Demo3()
         {
             ArrayOperations op = new ArrayOperations();
             int[] array = new int[] { 6, 3, 8, 1, 9 };
@@ -89,5 +89,25 @@ namespace collections
             // WriteLine("Array copiado ");
             // op.PrintArray(arrayCopy);
         }
+    
+        static void Main()
+        {
+            OperationLista opList = new OperationLista();
+            List<string> estados = new List<string>();
+            estados.Add("SP");
+            estados.Add("MG");
+            estados.Add("BA");
+
+            opList.PrintList(estados);
+
+            WriteLine("");
+            WriteLine("Removendo elemento");
+            WriteLine("");
+
+            estados.Remove("MG");
+
+            opList.PrintList(estados);
+
+        }    
     }
 }

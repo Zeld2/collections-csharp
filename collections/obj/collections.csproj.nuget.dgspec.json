@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\workspace\\collections-csharp\\collections\\collections.csproj",
         "projectName": "collections",
         "projectPath": "C:\\workspace\\collections-csharp\\collections\\collections.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Zeld\\.nuget\\packages\\",
         "outputPath": "C:\\workspace\\collections-csharp\\collections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Zeld\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

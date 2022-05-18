@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matheus\\.nuget\\packages\\": {}
+    "C:\\Users\\Zeld\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\workspace\\collections-csharp\\collections\\collections.csproj",
+      "projectUniqueName": "C:\\workspace\\collections-csharp\\collections\\collections.csproj",
       "projectName": "collections",
-      "projectPath": "c:\\workspace\\collections-csharp\\collections\\collections.csproj",
-      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "c:\\workspace\\collections-csharp\\collections\\obj\\",
+      "projectPath": "C:\\workspace\\collections-csharp\\collections\\collections.csproj",
+      "packagesPath": "C:\\Users\\Zeld\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\collections-csharp\\collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Zeld\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
